@@ -1,6 +1,7 @@
 /**
- * Dichotic tone engine — independent left/right OscillatorNodes
- * via ChannelMergerNode for true stereo channel assignment.
+ * focusTones — dichotic tone engine
+ * Independent left/right OscillatorNodes via ChannelMergerNode
+ * for true stereo channel assignment.
  */
 
 const PRESETS = {
